@@ -3,11 +3,11 @@ Status
 ## GitHub Status:
 
 <a href="https://github.com/L1Knb">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=jvwaldrich0&show_icons=true&theme=dark&line_height=27" alt="Meus Stats do Github"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=L1Knb&show_icons=true&theme=dark&line_height=27" alt="Meus Stats do Github"/>
 </a>
 
 <a href="https://github.com/L1Knb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1Knb0&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1Knb&theme=dark&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/L1Knb/">
