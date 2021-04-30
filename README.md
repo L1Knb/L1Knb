@@ -7,11 +7,11 @@ Status
 </a>
 
 <a href="https://github.com/L1Knb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvwaldrich0&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1Knb0&theme=dark&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/L1Knb/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jvwaldrich0&repo=Aulas_Entra21&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=L1Knb&repo=Aulas_Entra21&theme=dark" />
 </a>
 
 <a href="https://github.com/Pibaska/">
@@ -19,11 +19,11 @@ Status
 </a>
 
 <a href="https://github.com/L1Knb/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jvwaldrich0&repo=CSV-Creator_API-Basketball&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=L1Knb&repo=CSV-Creator_API-Basketball&theme=dark" />
 </a>
 
 <a href="https://github.com/L1Knb/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jvwaldrich0&repo=File-Organizer&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=L1Knb&repo=File-Organizer&theme=dark" />
 </a>
 
 
