@@ -7,7 +7,7 @@ Status
 </a>
 
 <a href="https://github.com/L1Knb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1Knb&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Knb&theme=dark&hide_langs_below=1" />
 </a>
 
 
